@@ -1,7 +1,4 @@
 # learn-shell
 learn-shell
 
-
-edit-one
-edit-two
-edit-three
+Today I have learned about how to create a git repo and clone it and commit and push the changes
